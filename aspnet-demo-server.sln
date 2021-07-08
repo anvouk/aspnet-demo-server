@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-demo-server", "aspnet-demo-server\aspnet-demo-server.csproj", "{8B2BD3F8-6AEB-4C5E-88C2-91D711B55C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2BD3F8-6AEB-4C5E-88C2-91D711B55C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2BD3F8-6AEB-4C5E-88C2-91D711B55C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2BD3F8-6AEB-4C5E-88C2-91D711B55C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2BD3F8-6AEB-4C5E-88C2-91D711B55C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
